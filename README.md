@@ -48,4 +48,5 @@ Form to add new parts to list
 [Benchmark instructions] https://www.userbenchmark.com/Software
 
 
-Note: Readme will be updated as new feature are implemented
+# Notes 
+Readme will be updated as new feature are implemented
